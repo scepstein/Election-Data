@@ -1,7 +1,9 @@
 
 # Nassau County, NY 2022 Elections Results by Precinct
+<div align="center">
+<img src="plot_image.png" alt="Map text" height="600">
+</div>
 
-!(Nassau County, NY '22/plot_image.png)
 
 Precinct-level election results and geographic boundaries for the following elections/candidates (Nassau County, NY Nov. 2022) are included in the data set:
 Contest Name|Candidate Name|Major Party|
