@@ -7,12 +7,19 @@ pip install geopandas
 ipython
 import pandas as pd
 import os
-os.environ['SHAPE_RESTORE_SHX'] = 'YES'
 import geopandas as gpd
 
 #Import Election data
 E_data = pd.read_csv("precincts24.csv")
 E_data = E_data.query("ED != 'Total'") #Remove Total rows
+def number_convert(x):
+    if len(str(x)) == 1:
+        return("00"+str(x))
+    if len(str(x)) == 2:
+        return("0"+str(x))
+    if len(str(x)) == 3:
+        return(str(x))
+E_data["ADED"] =  #######LEft here
 
 #Import Shapefile data
-gdf = gpd.read_file("nyed.shp")
+gdf = gpd.read_file("nyed_24c")
