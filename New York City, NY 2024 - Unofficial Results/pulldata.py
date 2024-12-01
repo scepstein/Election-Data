@@ -132,7 +132,7 @@ for x in df["URL"]:
 
 
 #Save pandas to csv
-df.to_csv("precincts24.csv", index=False)
+ED_data.to_csv("precincts24.csv", index=False)
     
 
 
