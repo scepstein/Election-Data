@@ -6,6 +6,8 @@ source 'venv/bin/activate'
 pip install geopandas
 ipython
 import pandas as pd
+import os
+os.environ['SHAPE_RESTORE_SHX'] = 'YES'
 import geopandas as gpd
 
 #Import Election data
