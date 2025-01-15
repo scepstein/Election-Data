@@ -3,7 +3,7 @@
 ## New York City 2024 Presidential Election Results by Precinct 
 
 #### Full City View:
-![](images/map1_fullview.png)
+![](images/map1a_fullview.png)
 
 ## Data
 
