@@ -1,5 +1,10 @@
 # New York City Election Results (2024 General Election)
 
+## New York City 2024 Presidential Election Results by Precinct 
+
+#### Full City View:
+![](images/map1_fullview.png)
+
 ## Data
 
 ### Election Results
@@ -11,13 +16,15 @@ Voting data on the level of Election District was sourced from New York City Boa
     * [ADED24.csv](ADED24.csv): Harris '24 and Trump '24 votes by precinct (AD/ED).
     * [ADEDremap.csv](ADEDremap.csv): List of precincts for which results were combined into another precinct.
 
-### Precinct Map
+### Precinct Geospatial Data
 
 Geospatial data on Election Districts was pulled from the New York City Open Data portal on December 1, 2024 ([https://data.cityofnewyork.us/City-Government/nyed/wwxk-38u4/about_data](https://data.cityofnewyork.us/City-Government/nyed/wwxk-38u4/about_data)) and uploaded as [nyed_24c](nyed_24c).
 
-## WIP: Mapping 
+### Mapping
 
-Work in progres: See [Mapping.R](Mapping.R)
+Geospatial data and election results were combined using R code (see [Mapping.R](Mapping.R)).
+
+
 
 ## Development Tips 
 For preparing Markdown code, use [https://markdownlivepreview.com/](https://markdownlivepreview.com/)
