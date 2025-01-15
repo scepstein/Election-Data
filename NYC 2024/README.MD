@@ -9,7 +9,7 @@
 #### Brooklyn and Queens Zoom:
 ![](images/map1a_zoomBkQn.png)
 #### Staten Island Zoom:
-![](images/map1a_zoomSi.png)
+![](images/map1a_zoomSI.png)
 
 ## Data
 
