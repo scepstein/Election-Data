@@ -4,6 +4,8 @@
 
 #### Full City View:
 ![](images/map1a_fullview.png)
+#### Manhattan and Bronx Zoom:
+![](images/map1a_zoomMaBr.png)
 
 ## Data
 
