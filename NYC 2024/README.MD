@@ -1,6 +1,7 @@
-# New York City Election Results (2024 General Election)
+# New York City Election Results (2024 General Presidential Election)
 
-## New York City 2024 Presidential Election Results by Precinct 
+## Presidential Margin of Victory: Election Results by Precinct
+The margin of victory represents the percentage of total votes earned by the winning candidate (Harris: Blue, Trump: Red), less the percentage of total votes earned by the losing candidate. The margin of victory has been calculated for each Election District or Precinct in the city to observe highly local voting trends. 
 
 #### Full City View:
 ![](images/map1a_fullview.png)
