@@ -16,3 +16,8 @@ Voting data on the level of Election District was sourced from New York City Boa
 Geospatial data on Election Districts was pulled from the New York City Open Data portal on December 1, 2024 ([https://data.cityofnewyork.us/City-Government/nyed/wwxk-38u4/about_data](https://data.cityofnewyork.us/City-Government/nyed/wwxk-38u4/about_data)) and uploaded as [nyed_24c](nyed_24c).
 
 ## WIP: Mapping 
+
+Work in progres: See [Mapping.R](Mapping.R)
+
+## Development Tips 
+For preparing Markdown code, use [https://markdownlivepreview.com/](https://markdownlivepreview.com/)
