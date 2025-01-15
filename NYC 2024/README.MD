@@ -6,6 +6,10 @@
 ![](images/map1a_fullview.png)
 #### Manhattan and Bronx Zoom:
 ![](images/map1a_zoomMaBr.png)
+#### Brooklyn and Queens Zoom:
+![](images/map1a_zoomBkQn.png)
+#### Staten Island Zoom:
+![](images/map1a_zoomSi.png)
 
 ## Data
 
