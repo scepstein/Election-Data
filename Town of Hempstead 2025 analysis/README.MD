@@ -12,8 +12,6 @@
 | 2018 | Gubernatorial Election    | Andrew Cuomo      | Mark Molinaro         | 162,135   | 109,426   | 271,561      | 59.7%        | 40.3%        | 19.4%       |
 | 2018 | US Senator Election       | Kirsten Gillibrand| Chele Chiavacci Farley| 168,567   | 109,666   | 278,233      | 60.6%        | 39.4%        | 21.2%       |
 | 2017 | TOH Supervisor            | Laura Gillen      | Anthony Santino       | 80,214    | 77,946    | 158,160      | 50.7%        | 49.3%        | 1.4%        |
-| 2016 | Presidential Election     | Hillary Clinton   | Donald Trump  | 80,214    | 77,946    | 158,160      | 50.7%        | 49.3%        | 1.4%        |
-
 
 ## Data Sources
 
