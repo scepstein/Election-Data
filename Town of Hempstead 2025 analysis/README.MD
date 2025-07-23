@@ -34,4 +34,6 @@ The 2021 Town Supervisor results were pulled from [local news](https://patch.com
 
 2020 Presidential election and 2021 County Executive results were pulled from an old project where I had already isolated them. 
 
+2018 precinct results from the Governor's race and US Senate race were sourced from the [MIT Election Lab](https://dataverse.harvard.edu/file.xhtml?fileId=6692578&version=1.1).
+
 2017 Town Supervisor results were sourced from [local news](https://patch.com/new-york/rockvillecentre/election-2017-town-hempstead-live-results).
