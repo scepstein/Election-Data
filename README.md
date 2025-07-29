@@ -1,5 +1,4 @@
 # Election Data
-A repository for U.S. election data dumps and analysis on random topics. Includes custom-generated Shapefiles to make election analytics easier for others.
-
-## Election Data
-*  [Nassau County, NY 2022 Elections [Precinct-Level] [Shapefile]](https://github.com/scepstein/Election-Data/tree/main/Nassau%20County%2C%20NY%20'22)
+This repo hosts various election data projects, including but not limited to shapefiles (geographic data), raw data sources, tabluations, and analysis. The scope of projects covered and resources available from each project are highly variable. 
+*  [Nassau County, NY 2022 Elections [Precinct-Level] [Shapefile]](https://github.com/scepstein/Election-Data/tree/main/Nassau%20County%2C%20NY%20'22) Map and shapefile of precinct level data for 2022 general election results for several key elections. 
+*  [Town of Hempstead, New York Election Analysis 2017-2024](https://github.com/scepstein/Election-Data/tree/main/Town%20of%20Hempstead%202025%20analysis). A novel data source featuring election tabulations specific to Town of Hempstead, New York. Tabulations specific to this jurisidiction are not widely available. 
