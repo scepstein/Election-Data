@@ -25,52 +25,7 @@ This project focuses on identifying analytic insights from the 2025 Democratic M
 |15 |40%                            |60%                          |-19%                        |Ritchie Torres          |DEM         |
 |16 |27%                            |73%                          |-47%                        |George Latimer          |DEM         |
 
-{| class="wikitable"
-|-
-! CD !! Mamdani Percentage (Final Vote) !! Cuomo Percentage (Final Vote) !! Mamdani Margin (Final Vote) !! Member !! Member Party
-|-
-| 3  || 46% || 54% || -8%  || Tom Suozzi               || DEM
-|-
-| 5  || 40% || 60% || -20% || Gregory Meeks            || DEM
-|-
-| 6  || 51% || 49% || 3%   || Grace Meng               || DEM
-|-
-| 7  || 76% || 24% || 52%  || Nydia Velazquez          || DEM
-|-
-| 8  || 56% || 44% || 12%  || Hakeem Jeffries          || DEM
-|-
-| 9  || 52% || 48% || 4%   || Yvette Clarke            || DEM
-|-
-| 10 || 68% || 32% || 36%  || Dan Goldman              || DEM
-|-
-| 11 || 52% || 48% || 3%   || Nicole Malliotakis       || GOP
-|-
-| 12 || 50% || 50% || 0%   || Jerry Nadler             || DEM
-|-
-| 13 || 60% || 40% || 20%  || Adriano Espaillat        || DEM
-|-
-| 14 || 62% || 38% || 24%  || Alexandria Ocasio-Cortez || DEM
-|-
-| 15 || 40% || 60% || -19% || Ritchie Torres           || DEM
-|-
-| 16 || 27% || 73% || -47% || George Latimer           || DEM
-|}
 
-{| class="wikitable"
-|+ Example Table
-|-
-! Header 1
-! Header 2
-! Header 3
-|-
-| Data 1A
-| Data 1B
-| Data 1C
-|-
-| Data 2A
-| Data 2B
-| Data 2C
-|}
 
 
 ## sources
