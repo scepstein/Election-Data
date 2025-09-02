@@ -1,4 +1,9 @@
-# Town of Hempstead, New York Election Analysis
+# Town of Hempstead, New York: Election Analysis 2017-2024
+
+*Last updated July 23, 2025*
+
+## what is this? 
+The below table reports election results tabulated specifically for the jurisdiction of Town of Hempstead within Nassau County, New York. These vote tabulations were extracted from exisiting precinct level election result datasets, as totals across this jurisdiction are not widely available. 
 
 | Year | Contest                   | Dem Candidate     | GOP Candidate         | Dem Votes | GOP Votes | Total Votes | Dem Percent   | GOP Percent  | Dem Margin  |
 |------|---------------------------|-------------------|-----------------------|-----------|-----------|--------------|--------------|--------------|-------------|
