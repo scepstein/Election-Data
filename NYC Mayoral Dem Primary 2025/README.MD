@@ -33,6 +33,8 @@ This project focuses on identifying analytic insights from the 2025 Democratic M
 * **CD-11** represented by NYC's sole Republican **Nicole Malliotakis** actually went to Mamdani by 3%. 
 * **Dan Goldman** of **CD-10** was a moderate figure who beat out a field of progressive candidates (non-ranked choice) when the seat was open. The seat went for Mamdani by a strong 36%, indicating that it's a great upset opportunity by a strong progressive challenger.
 
+*For full data inlcuding vote tabulations per district see CD_table.csv*
+
 ## NYC Mayoral Primary Final Vote by State Senate District 
 
 |SD |Mamdani Percentage (Final Vote)|Cuomo Percentage (Final Vote)|Mamdani Margin (Final Vote)|Member                   |Member Party|
@@ -70,6 +72,7 @@ This project focuses on identifying analytic insights from the 2025 Democratic M
 
 * **SD-13** - **Jessica Ramos** ran for mayor as well and ended up dropping out early to endorse Andrew Cuomo over Zohran Mamdani. Her district went to Mamdani by a strong +21% margin, indicating an opportunity for her to be replaced by a Mamdani-aligned candidate. 
 
+*For full data inlcuding vote tabulations per district see SD_table.csv*
 
 ## NYC Mayoral Primary Final Vote by State Assembly District 
 
@@ -141,6 +144,7 @@ This project focuses on identifying analytic insights from the 2025 Democratic M
 |86 |37%                            |63%                          |-26%                       |Yudelka Tapia             |Democratic  |
 |87 |49%                            |51%                          |-2%                        |Karines Reyes             |Democratic  |
 
+*For full data inlcuding vote tabulations per district see AD_table.csv*
 
 ## sources
 Election data was downloaded from [the New York City Board of Elections website](https://vote.nyc/page/election-results-summary), specifically the PRIMARY - JUNE 24, 2025 - Cast Vote Record (CVR). Notably, data was pulled before finalization and certification of the election data was completed. 
