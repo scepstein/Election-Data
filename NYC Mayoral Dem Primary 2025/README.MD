@@ -63,58 +63,58 @@ This project focuses on identifying analytic insights from the 2025 Democratic M
 |AD |Mamdani Percentage (Final Vote)|Cuomo Percentage (Final Vote)|Mamdani Margin (Final Vote)|Member                    |Member Party|
 |---|-------------------------------|-----------------------------|---------------------------|--------------------------|------------|
 |23 |37%                            |63%                          |-27%                       |Stacey Pheffer Amato      |Democratic  |
-|24 |53%                            |47%                          |6%                         |David Weprin              |Democratic  |
+|24 |53%                            |47%                          |+6%                        |David Weprin              |Democratic  |
 |25 |48%                            |52%                          |-5%                        |Nily Rozic                |Democratic  |
 |26 |42%                            |58%                          |-15%                       |Edward Braunstein         |Democratic  |
 |27 |38%                            |62%                          |-25%                       |Sam Berger                |Democratic  |
-|28 |52%                            |48%                          |4%                         |Andrew Hevesi             |Democratic  |
+|28 |52%                            |48%                          |+4%                        |Andrew Hevesi             |Democratic  |
 |29 |40%                            |60%                          |-20%                       |Alicia Hyndman            |Democratic  |
-|30 |68%                            |32%                          |36%                        |Steven Raga               |Democratic  |
+|30 |68%                            |32%                          |+36%                       |Steven Raga               |Democratic  |
 |31 |37%                            |63%                          |-25%                       |Khaleel Anderson          |Democratic  |
 |32 |36%                            |64%                          |-28%                       |Vivian E. Cook            |Democratic  |
 |33 |42%                            |58%                          |-15%                       |Clyde Vanel               |Democratic  |
-|34 |71%                            |29%                          |41%                        |Jessica González-Rojas    |Democratic  |
+|34 |71%                            |29%                          |+41%                       |Jessica González-Rojas    |Democratic  |
 |35 |47%                            |53%                          |-7%                        |Larinda Hooks             |Democratic  |
-|36 |81%                            |19%                          |62%                        |Zohran Mamdani            |Democratic  |
-|37 |77%                            |23%                          |54%                        |Claire Valdez             |Democratic  |
-|38 |70%                            |30%                          |41%                        |Jenifer Rajkumar          |Democratic  |
-|39 |64%                            |36%                          |28%                        |Catalina Cruz             |Democratic  |
-|40 |52%                            |48%                          |4%                         |Ron Kim                   |Democratic  |
+|36 |81%                            |19%                          |+62%                       |Zohran Mamdani            |Democratic  |
+|37 |77%                            |23%                          |+54%                       |Claire Valdez             |Democratic  |
+|38 |70%                            |30%                          |+41%                       |Jenifer Rajkumar          |Democratic  |
+|39 |64%                            |36%                          |+28%                       |Catalina Cruz             |Democratic  |
+|40 |52%                            |48%                          |+4%                        |Ron Kim                   |Democratic  |
 |41 |31%                            |69%                          |-39%                       |Kalman Yeger              |Democratic  |
-|42 |55%                            |45%                          |9%                         |Rodneyse Bichotte Hermelyn|Democratic  |
-|43 |61%                            |39%                          |23%                        |Brian A. Cunningham       |Democratic  |
-|44 |79%                            |21%                          |58%                        |Robert Carroll            |Democratic  |
+|42 |55%                            |45%                          |+9%                        |Rodneyse Bichotte Hermelyn|Democratic  |
+|43 |61%                            |39%                          |+23%                       |Brian A. Cunningham       |Democratic  |
+|44 |79%                            |21%                          |+58%                       |Robert Carroll            |Democratic  |
 |45 |28%                            |72%                          |-43%                       |Michael Novakhov          |Republican  |
-|46 |56%                            |44%                          |12%                        |Alec Brook-Krasny         |Republican  |
-|47 |54%                            |46%                          |7%                         |William Colton            |Democratic  |
+|46 |56%                            |44%                          |+12%                       |Alec Brook-Krasny         |Republican  |
+|47 |54%                            |46%                          |+7%                        |William Colton            |Democratic  |
 |48 |16%                            |87%                          |-71%                       |Simcha Eichenstein        |Democratic  |
-|49 |58%                            |42%                          |17%                        |Lester Chang              |Republican  |
-|50 |74%                            |26%                          |48%                        |Emily Gallagher           |Democratic  |
-|51 |77%                            |23%                          |53%                        |Marcela Mitaynes          |Democratic  |
-|52 |74%                            |26%                          |48%                        |Jo Anne Simon             |Democratic  |
-|53 |83%                            |17%                          |67%                        |Maritza Davila            |Democratic  |
-|54 |71%                            |29%                          |42%                        |Erik Martin Dilan         |Democratic  |
+|49 |58%                            |42%                          |+17%                       |Lester Chang              |Republican  |
+|50 |74%                            |26%                          |+48%                       |Emily Gallagher           |Democratic  |
+|51 |77%                            |23%                          |+53%                       |Marcela Mitaynes          |Democratic  |
+|52 |74%                            |26%                          |+48%                       |Jo Anne Simon             |Democratic  |
+|53 |83%                            |17%                          |+67%                       |Maritza Davila            |Democratic  |
+|54 |71%                            |29%                          |+42%                       |Erik Martin Dilan         |Democratic  |
 |55 |48%                            |52%                          |-3%                        |Latrice Walker            |Democratic  |
-|56 |75%                            |25%                          |51%                        |Stefani Zinerman          |Democratic  |
-|57 |78%                            |22%                          |57%                        |Phara Souffrant Forrest   |Democratic  |
+|56 |75%                            |25%                          |+51%                       |Stefani Zinerman          |Democratic  |
+|57 |78%                            |22%                          |+57%                       |Phara Souffrant Forrest   |Democratic  |
 |58 |31%                            |69%                          |-38%                       |Monique Chandler-Waterman |Democratic  |
 |59 |31%                            |69%                          |-38%                       |Jaime Williams            |Democratic  |
 |60 |31%                            |69%                          |-37%                       |Nikki Lucas               |Democratic  |
 |61 |50%                            |51%                          |-1%                        |Charles Fall              |Democratic  |
 |62 |40%                            |60%                          |-20%                       |Michael Reilly            |Republican  |
 |63 |46%                            |54%                          |-7%                        |Sam Pirozzolo             |Republican  |
-|64 |56%                            |44%                          |12%                        |Michael Tannousis         |Republican  |
-|65 |65%                            |35%                          |30%                        |Grace Lee                 |Democratic  |
-|66 |57%                            |43%                          |14%                        |Deborah J. Glick          |Democratic  |
+|64 |56%                            |44%                          |+12%                       |Michael Tannousis         |Republican  |
+|65 |65%                            |35%                          |+30%                       |Grace Lee                 |Democratic  |
+|66 |57%                            |43%                          |+14%                       |Deborah J. Glick          |Democratic  |
 |67 |49%                            |51%                          |-3%                        |Linda Rosenthal           |Democratic  |
-|68 |56%                            |44%                          |11%                        |Eddie Gibbs               |Democratic  |
-|69 |59%                            |41%                          |17%                        |Micah Lasher              |Democratic  |
-|70 |63%                            |37%                          |26%                        |Jordan Wright             |Democratic  |
-|71 |66%                            |34%                          |32%                        |Al Taylor                 |Democratic  |
-|72 |58%                            |42%                          |17%                        |Manny De Los Santos       |Democratic  |
+|68 |56%                            |44%                          |+11%                       |Eddie Gibbs               |Democratic  |
+|69 |59%                            |41%                          |+17%                       |Micah Lasher              |Democratic  |
+|70 |63%                            |37%                          |+26%                       |Jordan Wright             |Democratic  |
+|71 |66%                            |34%                          |+32%                       |Al Taylor                 |Democratic  |
+|72 |58%                            |42%                          |+17%                       |Manny De Los Santos       |Democratic  |
 |73 |37%                            |63%                          |-27%                       |Alex Bores                |Democratic  |
-|74 |62%                            |38%                          |24%                        |Harvey Epstein            |Democratic  |
-|75 |57%                            |43%                          |15%                        |Tony Simone               |Democratic  |
+|74 |62%                            |38%                          |+24%                       |Harvey Epstein            |Democratic  |
+|75 |57%                            |43%                          |+15%                       |Tony Simone               |Democratic  |
 |76 |48%                            |52%                          |-5%                        |Rebecca Seawright         |Democratic  |
 |77 |38%                            |62%                          |-24%                       |Landon Dais               |Democratic  |
 |78 |44%                            |56%                          |-11%                       |George Alvarez            |Democratic  |
