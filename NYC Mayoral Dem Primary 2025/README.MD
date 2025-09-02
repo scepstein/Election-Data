@@ -24,7 +24,14 @@ This project focuses on identifying analytic insights from the 2025 Democratic M
 |14 |62%                            |38%                          |+24%                        |Alexandria Ocasio-Cortez|DEM         |
 |15 |40%                            |60%                          |-19%                        |Ritchie Torres          |DEM         |
 |16 |27%                            |73%                          |-47%                        |George Latimer          |DEM         |
-* Insights: CD-8 represented by the national Democratic leader Hakeem Jeffries (who through now has refused to endorse Mamdani for mayor) went to Mamdani by +12%, indicating that a strong progressive challenger to Jeffries has considerable opportunity to upset. CD-12 represented by newly-announced retiring Jerry Nadler was a tie between Mamdani and Cuomo, indicating the potential for the progressive House member to be replaced by a more moderate figure. CD-11 represented by NYC's sole Republican actually went to Mamdani by 3%. Lastly, Dan Goldman of CD-10 was a moderate figure who beat out a field of progressive candidates (non-ranked choice) when the seat was open. The seat went for Mamdani by a strong 36%, indicating that it's a great upset opportunity by a strong progressive challenger.*
+ 
+ *Insights:* 
+
+* **CD-8** represented by the national Democratic leader **Hakeem Jeffries** (who through now has refused to endorse Mamdani for mayor) went to Mamdani by +12%, indicating that a strong progressive challenger to Jeffries has considerable opportunity to upset. 
+
+* **CD-12** represented by newly-announced retiring **Jerry Nadler** was a tie between Mamdani and Cuomo, indicating the potential for the progressive House member to be replaced by a more moderate figure. 
+* **CD-11** represented by NYC's sole Republican **Nicole Malliotakis** actually went to Mamdani by 3%. 
+* **Dan Goldman** of **CD-10** was a moderate figure who beat out a field of progressive candidates (non-ranked choice) when the seat was open. The seat went for Mamdani by a strong 36%, indicating that it's a great upset opportunity by a strong progressive challenger.
 
 ## NYC Mayoral Primary Final Vote by State Senate District 
 
@@ -58,6 +65,11 @@ This project focuses on identifying analytic insights from the 2025 Democratic M
 |36 |31%                            |69%                          |-38%                       |Jamaal Bailey            |Democratic  |
 |47 |53%                            |47%                          |+5%                        |Brad Hoylman-Sigal       |Democratic  |
 |59 |74%                            |26%                          |+49%                       |Kristen Gonzalez         |Democratic  |
+
+*Insights:* 
+
+* **SD-13** - **Jessica Ramos** ran for mayor as well and ended up dropping out early to endorse Andrew Cuomo over Zohran Mamdani. Her district went to Mamdani by a strong +21% margin, indicating an opportunity for her to be replaced by a Mamdani-aligned candidate. 
+
 
 ## NYC Mayoral Primary Final Vote by State Assembly District 
 
