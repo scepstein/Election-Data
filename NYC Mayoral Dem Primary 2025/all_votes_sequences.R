@@ -1,5 +1,3 @@
-#Sam's Electoral System Applied to the 2021 Democratic Ranked Choice Primary
-
 #Set working directory
 library(rstudioapi)
 setwd(dirname(rstudioapi::getActiveDocumentContext()$path))
