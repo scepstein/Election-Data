@@ -56,6 +56,22 @@ This project focuses on identifying analytic insights from the 2025 Democratic M
 | 16 || 27% || 73% || -47% || George Latimer           || DEM
 |}
 
+{| class="wikitable"
+|+ Example Table
+|-
+! Header 1
+! Header 2
+! Header 3
+|-
+| Data 1A
+| Data 1B
+| Data 1C
+|-
+| Data 2A
+| Data 2B
+| Data 2C
+|}
+
 
 ## sources
 Election data was downloaded from [the New York City Board of Elections website](https://vote.nyc/page/election-results-summary), specifically the PRIMARY - JUNE 24, 2025 - Cast Vote Record (CVR). Notably, data was pulled before finalization and certification of the election data was completed. 
