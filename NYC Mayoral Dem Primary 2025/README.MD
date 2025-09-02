@@ -9,7 +9,7 @@ This project focuses on identifying analytic insights from the 2025 Democratic M
 
 ## NYC Mayoral Primary Final Vote by Congressional District 
 
-|CD |Mamdani Percentage (Final Vote)|Cuomo Percentage (Final Vote)|Mamdani Margin  (Final Vote)|Member                  |Member Party|
+|SD |Mamdani Percentage (Final Vote)|Cuomo Percentage (Final Vote)|Mamdani Margin  (Final Vote)|Member                  |Member Party|
 |---|-------------------------------|-----------------------------|----------------------------|------------------------|------------|
 |3  |46%                            |54%                          |-8%                         |Tom Suozzi              |DEM         |
 |5  |40%                            |60%                          |-20%                        |Gregory Meeks           |DEM         |
@@ -25,8 +25,38 @@ This project focuses on identifying analytic insights from the 2025 Democratic M
 |15 |40%                            |60%                          |-19%                        |Ritchie Torres          |DEM         |
 |16 |27%                            |73%                          |-47%                        |George Latimer          |DEM         |
 
+## NYC Mayoral Primary Final Vote by State Senate District 
 
-
+|SD |Mamdani Percentage (Final Vote)|Cuomo Percentage (Final Vote)|Mamdani Margin (Final Vote)|Member                   |Member Party|
+|---|-------------------------------|-----------------------------|---------------------------|-------------------------|------------|
+|10 |32%                            |68%                          |-37%                       |James Sanders Jr.        |Democratic  |
+|11 |52%                            |48%                          |+4%                        |Toby Ann Stavisky        |Democratic  |
+|12 |75%                            |25%                          |+51%                       |Michael Gianaris         |Democratic  |
+|13 |60%                            |40%                          |+21%                       |Jessica Ramos            |Democratic  |
+|14 |39%                            |61%                          |-21%                       |Leroy Comrie             |Democratic  |
+|15 |54%                            |46%                          |+8%                        |Joseph Addabbo Jr.       |Democratic  |
+|16 |48%                            |52%                          |-5%                        |John Liu                 |Democratic  |
+|17 |63%                            |37%                          |+26%                       |Stephen T. Chan          |Republican  |
+|18 |76%                            |24%                          |+52%                       |Julia Salazar            |Democratic  |
+|19 |32%                            |68%                          |-36%                       |Roxanne Persaud          |Democratic  |
+|20 |70%                            |30%                          |+40%                       |Zellnor Myrie            |Democratic  |
+|21 |50%                            |50%                          |+1%                        |Kevin Parker             |Democratic  |
+|22 |21%                            |80%                          |-59%                       |Sam Sutton               |Democratic  |
+|23 |46%                            |54%                          |-9%                        |Jessica Scarcella-Spanton|Democratic  |
+|24 |44%                            |56%                          |-13%                       |Andrew Lanza             |Republican  |
+|25 |74%                            |26%                          |+48%                       |Jabari Brisport          |Democratic  |
+|26 |73%                            |27%                          |+47%                       |Andrew Gounardes         |Democratic  |
+|27 |62%                            |38%                          |+25%                       |Brian P. Kavanagh        |Democratic  |
+|28 |42%                            |58%                          |-15%                       |Liz Krueger              |Democratic  |
+|29 |50%                            |50%                          |-0.2%                      |José M. Serrano          |Democratic  |
+|30 |63%                            |37%                          |+26%                       |Cordell Cleare           |Democratic  |
+|31 |58%                            |42%                          |+17%                       |Robert Jackson           |Democratic  |
+|32 |38%                            |62%                          |-24%                       |Luis R. Sepúlveda        |Democratic  |
+|33 |46%                            |54%                          |-9%                        |Gustavo Rivera           |Democratic  |
+|34 |49%                            |51%                          |-2%                        |Nathalia Fernandez       |Democratic  |
+|36 |31%                            |69%                          |-38%                       |Jamaal Bailey            |Democratic  |
+|47 |53%                            |47%                          |+5%                        |Brad Hoylman-Sigal       |Democratic  |
+|59 |74%                            |26%                          |+49%                       |Kristen Gonzalez         |Democratic  |
 
 
 ## sources
