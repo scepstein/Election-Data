@@ -3,7 +3,7 @@ This project focuses on identifying analytic insights from the 2025 Democratic M
 
 ## value added
 
-**Constituent district analysis** - One element of analysis that is largely lacking from what I've been able to find elsewhere online is calculating the performance of the mayoral candidates across the various constituent districts across the city, meaning each congressional, state senate, and state assembly district. This data could be helpful for determining the ideologically lean of the many NYC component districts. 
+**Congressional, State Senate, State Assembly, and City Council district results** - This analysis provides tabulations from the mayoral race across the various constituent districts across the city at the congressional, state senate, state assembly, and city council district level (results that are not widely available). This data could be helpful for determining the ideological lean of the many NYC component districts. 
 
 **Simplified ranked choice voting (RCV) sequence dataset** - Split over 2 files (1M+ rows total - NYC_2025_RCV_allvotes_sequences_1_of_2.xlsx and NYC_2025_RCV_allvotes_sequences_2_of_2.xlsx), a simplified dataset of every RCV sequence submitted by voters in the Democratic mayoral primary is provided. Optimizations include: isolating Dem mayoral primary results, converting main candidate ID codes to candidate names, and filtering out non-participants. 
 
