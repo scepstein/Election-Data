@@ -1,7 +1,7 @@
 NYC Mayoral General Election 2025 - Data Files
 =================================================
 
-Generated: November 23, 2025
+Generated: November 22, 2025
 Source: NYC Board of Elections (https://web.enrboenyc.us/)
 
 This directory contains unofficial election results for the NYC Mayoral General Election 2025,
@@ -53,8 +53,8 @@ Geographic Hierarchy:
 
 Vote Columns:
 - All vote-related columns contain "()" in their headers
-- Format: "Candidate Name Party (Votes)"
-- Example: "JOHN SMITH DEMOCRATIC (Votes)"
+- Format: "Candidate Name (Party)" (Votes)
+- Example: "JOHN SMITH (Democratic)" (Votes)
 
 NOTES:
 ------

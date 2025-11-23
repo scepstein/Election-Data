@@ -120,59 +120,58 @@ def map_additional_district_attributes(help=False):
     output_csv_path = os.path.join(data_dir, 'unofficial_results_with_districts.csv')
     precinct_results.to_csv(output_csv_path, index=False)
     print(f"Precinct results with districts saved to: {output_csv_path}")
-
-    def generate_district_reports(help=False):
-        
-        if help:
-            print("Function: generate_district_reports")
-            print("Purpose: Generates aggregated election reports by district type")
-            print("Description: Groups precinct results by AD, CD, and SD, summing all numeric columns")
-            print("             (columns with () in header), and creates separate CSV reports for each")
-            print("Parameters:")
-            print("  help (bool): If True, displays this help message and returns None. Default: False")
-            print("Returns: None (saves 3 CSV files to current working directory)")
-            print("Output: AD_summary.csv, CD_summary.csv, SD_summary.csv")
-            return None
-        
-        # Get data directory path
-        data_dir = os.path.join(os.getcwd(), 'data')
-        
-        # Read the precinct results with district mappings
-        precinct_results = pd.read_csv(os.path.join(data_dir, 'unofficial_results_with_districts.csv'))
-        
-        # Identify columns with () in header - these are the vote columns to sum
-        vote_columns = [col for col in precinct_results.columns if '(' in col]
-        
-        # Generate report for Assembly Districts (AD)
-        ad_report = precinct_results.groupby('AD')[vote_columns].sum().reset_index()
-        ad_output_path = os.path.join(data_dir, 'AD_summary.csv')
-        ad_report.to_csv(ad_output_path, index=False)
-        print(f"Assembly District report saved to: {ad_output_path}")
-        
-        # Generate report for Congressional Districts (CD)
-        cd_report = precinct_results.groupby('CD')[vote_columns].sum().reset_index()
-        cd_output_path = os.path.join(data_dir, 'CD_summary.csv')
-        cd_report.to_csv(cd_output_path, index=False)
-        print(f"Congressional District report saved to: {cd_output_path}")
-        
-        # Generate report for Senate Districts (SD)
-        sd_report = precinct_results.groupby('SD')[vote_columns].sum().reset_index()
-        sd_output_path = os.path.join(data_dir, 'SD_summary.csv')
-        sd_report.to_csv(sd_output_path, index=False)
-        print(f"Senate District report saved to: {sd_output_path}")
-
-
-    generate_district_reports()
     
-    def create_data_readme():
-        """Create a README.txt file describing all data files in the data directory"""
-        data_dir = os.path.join(os.getcwd(), 'data')
-        readme_path = os.path.join(data_dir, 'README.txt')
-        
-        readme_content = """NYC Mayoral General Election 2025 - Data Files
+
+def generate_district_reports(help=False):
+    
+    if help:
+        print("Function: generate_district_reports")
+        print("Purpose: Generates aggregated election reports by district type")
+        print("Description: Groups precinct results by AD, CD, and SD, summing all numeric columns")
+        print("             (columns with () in header), and creates separate CSV reports for each")
+        print("Parameters:")
+        print("  help (bool): If True, displays this help message and returns None. Default: False")
+        print("Returns: None (saves 3 CSV files to current working directory)")
+        print("Output: AD_summary.csv, CD_summary.csv, SD_summary.csv")
+        return None
+    
+    # Get data directory path
+    data_dir = os.path.join(os.getcwd(), 'data')
+    
+    # Read the precinct results with district mappings
+    precinct_results = pd.read_csv(os.path.join(data_dir, 'unofficial_results_with_districts.csv'))
+    
+    # Identify columns with () in header - these are the vote columns to sum
+    vote_columns = [col for col in precinct_results.columns if '(' in col]
+    
+    # Generate report for Assembly Districts (AD)
+    ad_report = precinct_results.groupby('AD')[vote_columns].sum().reset_index()
+    ad_output_path = os.path.join(data_dir, 'AD_summary.csv')
+    ad_report.to_csv(ad_output_path, index=False)
+    print(f"Assembly District report saved to: {ad_output_path}")
+    
+    # Generate report for Congressional Districts (CD)
+    cd_report = precinct_results.groupby('CD')[vote_columns].sum().reset_index()
+    cd_output_path = os.path.join(data_dir, 'CD_summary.csv')
+    cd_report.to_csv(cd_output_path, index=False)
+    print(f"Congressional District report saved to: {cd_output_path}")
+    
+    # Generate report for Senate Districts (SD)
+    sd_report = precinct_results.groupby('SD')[vote_columns].sum().reset_index()
+    sd_output_path = os.path.join(data_dir, 'SD_summary.csv')
+    sd_report.to_csv(sd_output_path, index=False)
+    print(f"Senate District report saved to: {sd_output_path}")
+
+
+def create_data_readme():
+    """Create a README.txt file describing all data files in the data directory"""
+    data_dir = os.path.join(os.getcwd(), 'data')
+    readme_path = os.path.join(data_dir, 'README.txt')
+    
+    readme_content = """NYC Mayoral General Election 2025 - Data Files
 =================================================
 
-Generated: November 23, 2025
+Generated: November 22, 2025
 Source: NYC Board of Elections (https://web.enrboenyc.us/)
 
 This directory contains unofficial election results for the NYC Mayoral General Election 2025,
@@ -224,8 +223,8 @@ Geographic Hierarchy:
 
 Vote Columns:
 - All vote-related columns contain "()" in their headers
-- Format: "Candidate Name Party (Votes)"
-- Example: "JOHN SMITH DEMOCRATIC (Votes)"
+- Format: "Candidate Name (Party)" (Votes)
+- Example: "JOHN SMITH (Democratic)" (Votes)
 
 NOTES:
 ------
@@ -241,13 +240,15 @@ DATA PROCESSING PIPELINE:
 2. map_additional_district_attributes() → unofficial_results_with_districts.csv
 3. generate_district_reports() → AD_summary.csv, CD_summary.csv, SD_summary.csv
 """
-        
-        with open(readme_path, 'w') as f:
-            f.write(readme_content)
-        
-        print(f"Data documentation saved to: {readme_path}")
     
-    create_data_readme()
+    with open(readme_path, 'w') as f:
+        f.write(readme_content)
+    
+    print(f"Data documentation saved to: {readme_path}")
 
-scrape_unoffical_precinct_results()
-map_additional_district_attributes()
+
+#Function Running Area
+
+#scrape_unoffical_precinct_results(help=True)
+#map_additional_district_attributes(help=True)
+create_data_readme()
