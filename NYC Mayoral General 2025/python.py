@@ -237,8 +237,27 @@ NOTES:
 DATA PROCESSING PIPELINE:
 ------------------------
 1. scrape_unoffical_precinct_results() → unofficial_results.csv
+   - Scrapes NYC BOE website for all Assembly District pages
+   - Extracts HTML tables containing precinct-level vote counts
+   - Parses candidate names, party affiliations, and vote totals
+   - Combines multi-row headers into single column names
+   - Adds AD column and cleans ED formatting
+   - Removes "Total" rows to keep only individual precinct data
+   - Outputs: ED, AD, and all candidate vote columns
+
 2. map_additional_district_attributes() → unofficial_results_with_districts.csv
+   - Reads unofficial_results.csv and district mapping reference file
+   - Performs left join on AD and ED columns
+   - Adds CD (Congressional District) and SD (Senate District) columns
+   - Filters out precincts with no matching district mapping (removes null CD/SD)
+   - Outputs: All columns from step 1 plus CD and SD columns
+
 3. generate_district_reports() → AD_summary.csv, CD_summary.csv, SD_summary.csv
+   - Reads unofficial_results_with_districts.csv
+   - Identifies vote columns (those containing parentheses)
+   - Groups by district type (AD, CD, or SD)
+   - Sums all numeric vote columns within each district
+   - Outputs: District ID column plus aggregated vote totals for all candidates
 """
     
     with open(readme_path, 'w') as f:
